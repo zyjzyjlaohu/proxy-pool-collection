@@ -1,0 +1,7 @@
+redis
+flask
+requests
+lxml
+pyquery
+environs
+loguru
